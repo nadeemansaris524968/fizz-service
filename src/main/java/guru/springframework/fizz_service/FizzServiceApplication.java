@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class FizzServiceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(FizzServiceApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(FizzServiceApplication.class, args);
+    }
 
 }
